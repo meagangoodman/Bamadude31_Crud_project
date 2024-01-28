@@ -9,7 +9,7 @@ Before starting, ensure that there are no processes running on the relevant port
 Assuming you've already cloned this project from GitHub, if not, please clone it now using the following command:
 
 ```
-git clone https://github.com/Bamadude31/Z-Prefix_Project.git
+git clone (https://github.com/meagangoodman/Bamadude31_Crud_project.git)
 ```
 
 For the backend, you'll need to create your own container and database using Docker. Here's how you can set it up:
